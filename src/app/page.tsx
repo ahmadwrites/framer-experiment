@@ -54,6 +54,10 @@ export default function Home() {
           title="But now, there's a moment of emptiness."
           highlight={["emptiness."]}
         />
+        <Section
+          title="If I scroll, too fast or weirdly, there will be some texts missing."
+          highlight={["missing."]}
+        />
       </main>
     </>
   );
